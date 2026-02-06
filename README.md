@@ -55,6 +55,5 @@ I enjoy building reliable, performance-oriented systems and understanding how so
 ---
 
 ## 📫 Let's Connect
-- 💼 Open to **Software Engineering Internships**
 - 📧 Reach me via GitHub or LinkedIn
 
