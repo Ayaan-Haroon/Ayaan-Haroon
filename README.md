@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋 I'm Ayaan</h1>
-<h3 align="center">Computer Science Student • Backend & Systems Intern Candidate</h3>
-
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+<h3 align="center">Computer Science Student • University of Leeds</h3>
 
 ---
 
 ## 💫 About Me
-I'm a **Computer Science student** seeking **Software Engineering internships**, with a focus on **full stack development**, and **low-level software**.
+I'm a **Computer Science student** exploring **Software Engineering**, with a focus on **full stack development**, and **low-level software**.
 
 I enjoy building reliable, performance-oriented systems and understanding how software works from the ground up — from memory and networking to APIs and deployment. I’m especially interested in roles where I can work close to core infrastructure while still shipping real products.
 
@@ -34,6 +28,9 @@ I enjoy building reliable, performance-oriented systems and understanding how so
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -54,20 +51,6 @@ I enjoy building reliable, performance-oriented systems and understanding how so
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
